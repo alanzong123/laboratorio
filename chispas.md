@@ -1,0 +1,10 @@
+- bot que responde todo acerca del programa partners de Tiendanube para agencias
+- app que calcula el GMV de una agencia
+-Prospectador de linkedin
+-Calculadora de ahorro para prospectos de agencias
+-visibilidad de gmv a las agencias
+-bot para preguntar todo acerca de tiendanube
+-Orden de capacidad de agencias, leads por asignar y asignados
+-Analizar la base de datos nativa de tiendanube clientes con mejor trafico y conectarlo
+-ORDENAR TODO 
+-Weekly con data GMV INCREMENTAL, GMV MANAGMENT, nuevas tiendas, nuevos intentos de tiendas, agencias registradas
