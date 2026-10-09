@@ -1,0 +1,3 @@
+- Problema: qué resolvía la idea MSI: Cambiar precio cada vez que se agreguen meses entonces sería meses con intereses
+- Quién lo usaría lo merchants con interes de entrarle a pagar un poco mas pero que no tienen el dinero completo en este momento
+- Calificación del 1 al 10: un 5
