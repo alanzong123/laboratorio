@@ -8,3 +8,4 @@
 -Analizar la base de datos nativa de tiendanube clientes con mejor trafico y conectarlo
 -ORDENAR TODO 
 -Weekly con data GMV INCREMENTAL, GMV MANAGMENT, nuevas tiendas, nuevos intentos de tiendas, agencias registradas
+-Conectarme al api de hubspot de de tiendanube y a un tableau para hacer un dashboard de new gmv y de managment gmv 

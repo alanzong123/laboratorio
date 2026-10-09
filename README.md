@@ -1,4 +1,3 @@
-
 Laboratorio de Alan: aquí nacen mis juguetes
 
 ★ Dashboard de GMV con datos de ejemplo
