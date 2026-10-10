@@ -9,3 +9,4 @@
 -ORDENAR TODO 
 -Weekly con data GMV INCREMENTAL, GMV MANAGMENT, nuevas tiendas, nuevos intentos de tiendas, agencias registradas
 -Conectarme al api de hubspot de de tiendanube y a un tableau para hacer un dashboard de new gmv y de managment gmv 
+¿Y si un script me avisa qué agencias llevan 30 días sin subir nada al hs?"
