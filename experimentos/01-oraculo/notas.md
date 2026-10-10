@@ -12,3 +12,4 @@ Cuando tengo muchas ideas y ninguna claridad, o cuando me da pereza decidir.
 -Weekly con data GMV INCREMENTAL, GMV MANAGMENT, nuevas tiendas, nuevos intentos de tiendas, agencias registradas
 -Conectarme al api de hubspot de de tiendanube y a un tableau para hacer un dashboard de new gmv y de managment gmv
 - Conectarme al api de clientify para poder hacer un bot de ventas para fideliza
+Mi laboratorio vive en: C:\Users\futuredrums13\Documents\proyectos\laboratorio
